@@ -1,0 +1,8 @@
+Reported optimal configuration:
+Number of topics (K): 15
+Maximum coherence score: 0.68
+
+Example discovered themes:
+- Neural Networks / Deep Learning
+- Natural Language Processing
+- Data Security / Cryptography
